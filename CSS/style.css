@@ -347,7 +347,7 @@ h1, h2, h3, h4, h5, h6 {
 .section-advantages {
   min-height: 447px;
   padding-top: 86px;
-  background: url("../IMG/backgrounds/computer.png") 0 0/cover no-repeat;
+  background: url("IMG/backgrounds/computer.png") 0 0/cover no-repeat;
 }
 
 @media (max-width: 1045px) {
