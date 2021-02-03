@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-promo {
-  background: url(../IMG/backgrounds/mans-hand.png) 0 0/cover no-repeat, rgba(44, 44, 44, 0.8);
+  background: url(IMG/backgrounds/mans-hand.png) 0 0/cover no-repeat, rgba(44, 44, 44, 0.8);
   background-blend-mode: multiply;
   min-height: 800px;
   padding: 39px 0;
@@ -347,7 +347,7 @@ h1, h2, h3, h4, h5, h6 {
 .section-advantages {
   min-height: 447px;
   padding-top: 86px;
-  background: url("IMG/backgrounds/computer.png") 0 0/cover no-repeat;
+  background: url("../../IMG/backgrounds/computer.png") 0 0/cover no-repeat;
 }
 
 @media (max-width: 1045px) {
